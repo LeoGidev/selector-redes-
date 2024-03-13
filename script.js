@@ -3,3 +3,4 @@ function mostrar(){
     var bt = document.getElementsByClassName;
     bt.className = 'tras-ver'
 }
+//en proceso
