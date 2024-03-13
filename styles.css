@@ -1,5 +1,5 @@
 .contenedor{
-    margin-top: 200px;
+    margin-top: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -53,8 +53,6 @@
 .red1.ver{
     scale: 1;
     transform: rotate(72deg) translate(200px) rotate(-72deg);
-    /*transform: rotate(0deg);
-    translate: -100px 20px;*/
     transition: 1s;
 }
 .red2.ver{
