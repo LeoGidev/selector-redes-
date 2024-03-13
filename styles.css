@@ -2,7 +2,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    border: 1px solid black;
 }
-img{
-    width: 10px  !important;
+.contenedor img{
+    width: 100px;
 }
