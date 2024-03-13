@@ -9,8 +9,8 @@
     width: 100px;
 }
 .tras{
-    position:relative;
-    top: 50%;
+    position:absolute;
+   
     left: 50%;
     border: 2px solid green;
 }
