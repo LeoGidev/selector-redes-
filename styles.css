@@ -4,9 +4,7 @@
     justify-content: center;
     align-items: center; 
 }
-.contenedor:hover{
-    backdrop-filter: shadow( 1px 0px 2px black);
-}
+
 .contenedor img{
     width: 100px;
     cursor: pointer;
@@ -21,6 +19,11 @@
     z-index: 10;
     cursor: pointer;
 }
+
+.im1:hover{
+    filter: drop-shadow(0px 0px 10px black);
+    rotate: 360deg;
+ }
 .red1{
     scale: 0;
     transform: rotate(90deg);
