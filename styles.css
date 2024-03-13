@@ -18,18 +18,23 @@
 }
 .red1{
     opacity: 0;
+    transform: rotate(90deg);
 }
 .red2{
     opacity: 0;
+    transform: rotate(90deg);
 }
 .red3{
     opacity: 0;
+    transform: rotate(90deg);
 
 }
 .red4{
     opacity: 0;
+    transform: rotate(90deg);
 }
 
 .red5{
     opacity: 0;
+    transform: rotate(90deg);
 }
