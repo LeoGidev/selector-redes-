@@ -11,7 +11,8 @@
 .tras{
     position:absolute;
     left: 50%;
-    border: 2px solid green;
+    /*border: 2px solid green;*/
+    transition: 1s;
 }
 .im1{
     z-index: 10;
@@ -20,25 +21,29 @@
 .red1{
     scale: 0;
     transform: rotate(90deg);
-    transition: 4s;
+    transition: 1s;
 }
 .red2{
     scale: 0;
     transform: rotate(90deg);
+    transition: 1s;
 }
 .red3{
     scale: 0;
     transform: rotate(90deg);
+    transition: 1s;
 
 }
 .red4{
     scale: 0;
     transform: rotate(90deg);
+    transition: 1s;
 }
 
 .red5{
     scale: 0;
     transform: rotate(90deg);
+    transition: 1s;
 }
 
 .im1{
@@ -48,24 +53,32 @@
 .red1.ver{
     scale: 1;
     transform: rotate(0deg);
-    translate: 100px 100px;
-    transition: 4s;
+    translate: -100px 20px;
+    transition: 1s;
 }
 .red2.ver{
-    scale: 0;
-    transform: rotate(90deg);
+    scale: 1;
+    transform: rotate(0deg);
+    translate: 0px 100px;
+    transition: 1s;
 }
 .red3.ver{
-    scale: 0;
-    transform: rotate(90deg);
+    scale: 1;
+    transform: rotate(0deg);
+    translate: -100px 20px;
+    transition: 1s;
 
 }
 .red4.ver{
-    scale: 0;
-    transform: rotate(90deg);
+    scale: 1;
+    transform: rotate(0deg);
+    translate: 20px -100px;
+    transition: 1s;
 }
 
 .red5.ver{
-    scale: 0;
-    transform: rotate(90deg);
+    scale: 1;
+    transform: rotate(0deg);
+    translate: -20px -100px;
+    transition: 1s;
 }
