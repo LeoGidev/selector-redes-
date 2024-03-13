@@ -1,5 +1,5 @@
 function mostrar(){
     console.log("hola");
-    var bt = document.getElementsByClass('tras');
+    var bt = document.getElementsByClassName;
     bt.className = 'tras-ver'
 }
