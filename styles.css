@@ -52,33 +52,31 @@
 }
 .red1.ver{
     scale: 1;
-    transform: rotate(0deg);
-    translate: -100px 20px;
+    transform: rotate(72deg) translate(100px) rotate(-72deg);
+    /*transform: rotate(0deg);
+    translate: -100px 20px;*/
     transition: 1s;
 }
 .red2.ver{
     scale: 1;
-    transform: rotate(0deg);
-    translate: 0px 100px;
+    transform: rotate(144deg) translate(100px) rotate(-144deg);
+    
     transition: 1s;
 }
 .red3.ver{
     scale: 1;
-    transform: rotate(0deg);
-    translate: -100px 20px;
+    transform: rotate(216deg) translate(100px) rotate(-216deg);
     transition: 1s;
 
 }
 .red4.ver{
     scale: 1;
-    transform: rotate(0deg);
-    translate: 20px -100px;
+    transform: rotate(288deg) translate(100px) rotate(-288deg);
     transition: 1s;
 }
 
 .red5.ver{
     scale: 1;
-    transform: rotate(0deg);
-    translate: -20px -100px;
+    transform: rotate(360deg) translate(100px) rotate(-360deg);
     transition: 1s;
 }
