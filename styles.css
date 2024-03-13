@@ -2,11 +2,14 @@
     margin-top: 50%;
     display: flex;
     justify-content: center;
-    align-items: center;
-    
+    align-items: center; 
+}
+.contenedor:hover{
+    backdrop-filter: shadow( 1px 0px 2px black);
 }
 .contenedor img{
     width: 100px;
+    cursor: pointer;
 }
 .tras{
     position:absolute;
