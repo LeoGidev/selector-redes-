@@ -18,24 +18,54 @@
     cursor: pointer;
 }
 .red1{
-    opacity: 0;
+    scale: 0;
     transform: rotate(90deg);
+    transition: 4s;
 }
 .red2{
-    opacity: 0;
+    scale: 0;
     transform: rotate(90deg);
 }
 .red3{
-    opacity: 0;
+    scale: 0;
     transform: rotate(90deg);
 
 }
 .red4{
-    opacity: 0;
+    scale: 0;
     transform: rotate(90deg);
 }
 
 .red5{
-    opacity: 0;
+    scale: 0;
+    transform: rotate(90deg);
+}
+
+.im1{
+    z-index: 10;
+    cursor: pointer;
+}
+.red1.ver{
+    scale: 1;
+    transform: rotate(0deg);
+    translate: 100px 100px;
+    transition: 4s;
+}
+.red2.ver{
+    scale: 0;
+    transform: rotate(90deg);
+}
+.red3.ver{
+    scale: 0;
+    transform: rotate(90deg);
+
+}
+.red4.ver{
+    scale: 0;
+    transform: rotate(90deg);
+}
+
+.red5.ver{
+    scale: 0;
     transform: rotate(90deg);
 }
