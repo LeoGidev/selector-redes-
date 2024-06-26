@@ -4,4 +4,4 @@
 ![imagen ilustratuva](example.png)
 
 
-Puedes probarla en mi Portafolio:[ir](https://leogidev.free.nf/Practicas/Reloj/)
+Puedes probarla en mi Portafolio:[ir](https://leogidev.free.nf/Practicas/Redes/)
