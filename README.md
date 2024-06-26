@@ -1,5 +1,5 @@
 # Selector de redes
-## Se programa a modo de práctica un sencillo reloj con calendario.
+## Esta es una práctica en CSS en la que hago un selector de redes sociales.
 ![imagen ilustratuva](example1.png)
 
 
